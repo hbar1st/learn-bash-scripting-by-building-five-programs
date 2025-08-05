@@ -91,3 +91,4 @@ ls --color=auto -y
 help test
 [[ -a coundown.sh ]]
 [[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
