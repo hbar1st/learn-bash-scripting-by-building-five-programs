@@ -89,3 +89,5 @@ bad_command
 ls --color=auto
 ls --color=auto -y
 help test
+[[ -a coundown.sh ]]
+[[ -a countdown.sh ]]
