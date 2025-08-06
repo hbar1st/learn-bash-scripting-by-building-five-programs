@@ -243,3 +243,4 @@ help [[
 [[ 'hello world' =~ bingo.sh countdown.sh fortune.sh questionnaire.sh ]]
 [[ 'hello world' =~ ^h ]]
 [[ 'hello world' =~ ^h.+d$ ]]
+VAR="hello world"
