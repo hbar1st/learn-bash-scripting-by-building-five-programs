@@ -234,3 +234,5 @@ help test
 echo ${RESPONSES[5]}
 ./fortune.sh
 help [[
+[[ hello = hello ]]
+[[ hello == hello ]]
