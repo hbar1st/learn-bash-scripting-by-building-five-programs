@@ -240,3 +240,5 @@ help [[
 [[ hello =~ el ]]
 [[ hello =~ 'lo wor' ]]
 [[ 'hello world' =~ 'lo wor' ]]
+[[ 'hello world' =~ bingo.sh countdown.sh fortune.sh questionnaire.sh ]]
+[[ 'hello world' =~ ^h ]]
