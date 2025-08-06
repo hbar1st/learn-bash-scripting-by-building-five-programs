@@ -237,3 +237,4 @@ help [[
 [[ hello = hello ]]
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
