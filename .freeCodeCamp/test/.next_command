@@ -211,3 +211,5 @@ help if
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+./fortune.hs
+./fortune.sh
