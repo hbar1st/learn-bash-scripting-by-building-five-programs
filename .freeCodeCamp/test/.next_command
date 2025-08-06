@@ -215,3 +215,5 @@ chmod +x fortune.sh
 ./fortune.sh
 ls --color=auto
 ARR=("a" "b" "c")
+echo ${ARR{1}}
+echo ${ARR[1]}
