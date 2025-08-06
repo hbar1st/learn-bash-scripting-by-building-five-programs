@@ -232,3 +232,4 @@ help
 help until
 help test
 echo ${RESPONSES[5]}
+./fortune.sh
