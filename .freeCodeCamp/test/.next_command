@@ -255,3 +255,4 @@ echo $VAR
 touch five.sh
 chmod +x five.sh
 __vsc_prompt_cmd_original
+./five.sh
