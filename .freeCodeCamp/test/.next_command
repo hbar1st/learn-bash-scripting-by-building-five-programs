@@ -259,3 +259,4 @@ __vsc_prompt_cmd_original
 clear
 ./five.sh
 help
+help type
